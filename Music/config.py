@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 SESSION_NAME = getenv('SESSION_NAME', 'AgAGFRW8AN9biZhAIB_X7rubbTCwNtc48oa-geXlaVsQbV9M1emAEV_iGPw_W-lNP1HGbOuQgF9NAUIxlp8-6rgN16-7Upuhst2wCxewyx0VP7Cxb5k_9EXap6_xeU2v4So9RZMt95XYxhGc4hWO_ikd9P46iHLMjXW8GjQAnGvY-bIrM6XqIXF1yeC3vixEa8knOHGkedZU3FYyLhEILy8TV6eH5jOGvsyw5o7xFElb2zZId_vlYO--B3xSWIMUR6zyH8wozehe9tIn0jZptYjY1rqWOMoYS9wtqvBThVazL60nrgL-KdikJC9beDJLLR0C-wzuAtARPCZ-JK6oG-gVAAAAAUM3evYA')
-BOT_TOKEN = getenv('BOT_TOKEN', '5204315005:AAFsIkgVx1g4AIuF2Fwsle52myFtrtaegv4')
+BOT_TOKEN = getenv('BOT_TOKEN', '5204315005:AAF98O-HHNpo2qnyzQLV4wbw8fveiPZq2gY')
 API_ID = int(getenv('API_ID', '8934899'))
 API_HASH = getenv('API_HASH','bf3e98d2c351e4ad06946b4897374a1e')
 DURATION_LIMIT = int(getenv('DURATION_LIMIT', '54000'))
